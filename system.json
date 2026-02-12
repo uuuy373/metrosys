@@ -1,19 +1,18 @@
 {
-    "id": "metrosis",
-    "title": "Metronomicon system - fork DnD5e",
-    "description": "Meow >3",
+    "id": "metrosys",
+    "title": "Metronomicon НРИ",
+    "description": "",
     "version": "0.0.1",
     "compatibility": {
         "minimum": "13.347",
         "verified": "13"
     },
-    "url": "",
-    "manifest": "https://raw.githubusercontent.com/foundryvtt/metrosis/master/system.json",
-    "download",
+    "url": "https://github.com/foundryvtt/dnd5e/",
+    "manifest": "https://raw.githubusercontent.com/uuuy373/metrosys/main/system.json",
     "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-5.2.5/dnd5e-release-5.2.5.zip",
     "authors": [
         {
-            "name": "Kyrt",
+            "name": "Atropos",
             "url": "https://foundryvtt.com",
             "flags": {}
         }
