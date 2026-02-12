@@ -8,7 +8,7 @@
         "verified": "13"
     },
     "url": "https://github.com/foundryvtt/dnd5e/",
-    "manifest": "https://raw.githubusercontent.com/uuuy373/metrosys/main/system.json",
+    "manifest": "https://raw.githubusercontent.com/uuuy373/metrosys/refs/heads/main/system.json",
     "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-5.2.5/dnd5e-release-5.2.5.zip",
     "authors": [
         {
